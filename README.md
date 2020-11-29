@@ -8,6 +8,7 @@ Utilizando a sua linguagem de preferência desenvolva um método que recebe uma
 palavra e remove as letras repetidas, deixando somente a primeira ocorrência
 dela. Exemplo: abacaxi -> abcxi.
 <br />
+<br />
 Desafio 2: <br />
 
 Em um evento existe 24 pessoas, todas as pessoas se cumprimentam na entrada e
