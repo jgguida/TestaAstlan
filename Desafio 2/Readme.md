@@ -1,4 +1,4 @@
-<h3>Em um evento existe 24 pessoas, todas as pessoas se cumprimentam na entrada e
+<h3>Em um evento existem 24 pessoas, todas as pessoas se cumprimentam na entrada e
 na saída do evento. Quantos cumprimentos foram realizados? Descrever o
 raciocínio utilizado para encontrar o valor.</h3>
 
