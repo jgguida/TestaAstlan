@@ -1,0 +1,15 @@
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.AssemblyInfo.cs
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.deps.json
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.dll
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\bin\Debug\netstandard2.0\ref\LoginNavigation.dll
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.pdb
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.dll
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\ref\LoginNavigation.dll
+C:\Users\Jon\source\repos\LoginNavigation\LoginNavigation\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.pdb
