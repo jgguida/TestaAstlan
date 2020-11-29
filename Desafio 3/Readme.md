@@ -4,7 +4,7 @@
 Por se tratar de um teste decidi incluir todos os arquivos.</h3>
     </div>
     <div>
-    <img align="left"  width="150" heigth="200" hesrc="https://i.imgur.com/A4PgIOy.png " />
-    <img  align="right" width="150" height="200" src="https://i.imgur.com/Z9fx6Tl.png">
+    <img src="https://i.imgur.com/A4PgIOy.png " />
+    <img  src="https://i.imgur.com/Z9fx6Tl.png">
     </div>
 <div>
